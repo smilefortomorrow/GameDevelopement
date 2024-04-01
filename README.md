@@ -10,4 +10,4 @@ This game is develop on DeadFx framework(or SDK), I can't found any document abo
 3) Fix error for drawing ship(its size increases, game resource was invalid, check and repack all resources)
 
 <h4>My Dev Environment</h4>
-(https://github.com/smilefortomorrow/GameDevelopement/blob/dc3ae1a1cb31455a7d122e0a9e6d1f2c3e98c858/cur.png)
+<img src="[https://github.com/smilefortomorrow/WebSolution/blob/ddceea2e243361a65c7e64c75b01291a7802559d/WorkFlow/image/01.png](https://github.com/smilefortomorrow/GameDevelopement/blob/dc3ae1a1cb31455a7d122e0a9e6d1f2c3e98c858/cur.png)" /> <br/>
